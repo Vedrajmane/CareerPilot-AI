@@ -158,7 +158,7 @@ const Footer = () => {
 
               {/* LinkedIn */}
               <a
-                href="https://www.linkedin.com/in/wajid-daud-tamboli-3217b031a"
+                href="https://www.linkedin.com/in/vedraj-mane"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`group p-3 rounded-xl transition-all duration-300 transform hover:scale-110 hover:-translate-y-1 ${
@@ -363,7 +363,7 @@ const Footer = () => {
                   isDarkMode ? "text-gray-300" : "text-white"
                 }`}
                 style={{ fontFamily: "'Inter', 'Segoe UI', sans-serif", lineHeight: '1.5', fontWeight: 'bold' }}>
-                  N.K. Orchid College of Engineering & Technology, Solapur
+                  Ashokrao Mane Group of Institution, Vathar
                 </span>
               </li>
 
@@ -391,7 +391,7 @@ const Footer = () => {
                   </svg>
                 </div>
                 <a
-                  href="tel:+919667033839"
+                  href="tel:+917620600650"
                   className={`text-base transition-all duration-300 hover:scale-105 font-bold ${
                     isDarkMode ? "text-gray-300 hover:text-amber-400" : "!text-white hover:!text-gray-100"
                   }`}
@@ -402,7 +402,7 @@ const Footer = () => {
                     color: isDarkMode ? undefined : '#FFFFFF !important'
                   }}
                 >
-                  +91 9667033839
+                  +91 7620600650
                 </a>
               </li>
 
@@ -431,7 +431,7 @@ const Footer = () => {
                   </svg>
                 </div>
                 <a
-                  href="mailto:wajidtamboli@orchidengg.ac.in"
+                  href="mailto:maneved19@gmail.com"
                   className={`text-base transition-all duration-300 hover:scale-105 break-all font-bold ${
                     isDarkMode ? "text-gray-300 hover:text-amber-400" : "!text-white hover:!text-gray-100"
                   }`}
@@ -442,7 +442,7 @@ const Footer = () => {
                     color: isDarkMode ? undefined : '#FFFFFF !important'
                   }}
                 >
-                  wajidtamboli@orchidengg.ac.in
+                  maneved19@gmail.com
                 </a>
               </li>
             </ul>
